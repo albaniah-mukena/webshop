@@ -1,3 +1,5 @@
+export const SpecialItem = "/lunna";
+
 export const LinkTreeData = {
   wa: "https://wa.me/6285846513022",
   shopee: "https://shopee.co.id/al_baniah.mukena28",
