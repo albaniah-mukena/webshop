@@ -18,3 +18,14 @@ export const LinkTreeLunnaData = {
   tokopedia:
     "https://www.tokopedia.com/albaniahmukena/al-baniah-mukena-dewasa-mini-traveling-3-in-1-lunna-parasit-korea",
 };
+
+export const LinkTreeArumiData = {
+  wa: "https://wa.me/6285846513022",
+  shopee:
+    "https://shopee.co.id/Al-Baniah-Mukena-Dewasa-Plisket-Brukat-Arumi-Sutra-Velvet-Premium-Jumbo.-i.558817604.21030989761",
+  lazada:
+    "https://www.lazada.co.id/products/mukena-plisket-renda-arumi-velvet-jumbo-i6853394646-s13634602830.html",
+  tiktok: "https://vt.tiktok.com/ZSLBT9eYh/",
+  tokopedia:
+    "https://www.tokopedia.com/albaniahmukena/mukena-plisket-renda-arumi-velvet-jumbo-hitam",
+};
