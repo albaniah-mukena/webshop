@@ -29,3 +29,11 @@ export const LinkTreeArumiData = {
   tokopedia:
     "https://www.tokopedia.com/albaniahmukena/mukena-plisket-renda-arumi-velvet-jumbo-hitam",
 };
+
+export const LinkTreeInaraData = {
+  wa: "https://wa.me/6285846513022",
+  shopee: "https://shp.ee/w932f9t",
+  lazada: "https://s.lazada.co.id/s.lWRaB",
+  tiktok: "https://vt.tiktok.com/ZSLDKvKRP/",
+  tokopedia: "https://tokopedia.link/IimdPQBPcBb",
+};
