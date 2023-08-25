@@ -1,4 +1,4 @@
-export const InaraHeader = () => {
+export const AlishaHeader = () => {
   return (
     <div className="flex flex-col items-center space-y-3 uppercase mb-3">
       <div className="text-center">
