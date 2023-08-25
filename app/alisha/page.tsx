@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { LinkTreeAlishaData } from "@/configs";
 import clsx from "clsx";
 import Link from "next/link";
-import { InaraHeader } from "../../components/inara-header";
+import { AlishaHeader } from "../../components/alisha-header";
 
 const cn = clsx(
   "min-h-screen lg:max-w-2xl",
@@ -13,7 +13,7 @@ const cn = clsx(
 export default function Arumi() {
   return (
     <main className={cn}>
-      <InaraHeader />
+      <AlishaHeader />
       {/* <LunnaPhoto />
       <p className="text-xl text-center">
         Dapatkan mukena Lunna ini di beberapa <strong>marketplace</strong> di
