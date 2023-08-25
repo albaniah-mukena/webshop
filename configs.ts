@@ -38,3 +38,11 @@ export const LinkTreeInaraData = {
   tiktok: "https://vt.tiktok.com/ZSLDKvKRP/",
   tokopedia: "https://tokopedia.link/IimdPQBPcBb",
 };
+
+export const LinkTreeAlishaData = {
+  wa: "https://wa.me/6285846513022",
+  shopee: "https://shp.ee/cmjrzwd",
+  lazada: "https://s.lazada.co.id/s.maJY1",
+  tiktok: "https://vt.tiktok.com/ZSLGtPndm/",
+  tokopedia: "https://tokopedia.link/oCA9FvKRxCb",
+};
