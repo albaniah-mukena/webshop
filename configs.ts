@@ -1,4 +1,4 @@
-export const SpecialItem = "/lunna";
+export const SpecialItem = "/alisha";
 
 export const LinkTreeData = {
   webshop: "https://albaniah.shop",

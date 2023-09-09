@@ -15,7 +15,7 @@ export default function Links() {
     <main className={cn}>
       <AlbaHeader />
       <Button variant="albaSpecial" size="albaLg">
-        <Link href={SpecialItem}>🥳 New - Mukena Lunna 🎉🎉</Link>
+        <Link href={SpecialItem}>🥳 New - Mukena Alisha 🎉🎉</Link>
       </Button>
       {Object.entries(LinkTreeData).map((entry) => (
         <Button variant="albaPrimary" size="albaLg" asChild key={entry[0]}>
